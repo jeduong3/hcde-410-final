@@ -1,1 +1,3 @@
 # hcde-410-final
+
+This project explores the relationship between a country's development level and its progress towards clean energy adoption. By analyzing data from the World Development Indicators and Sustainable Energy for All databases, I will explore how development indicators, such as the GDP of a country, correlate with renewable energy consumption. Through a scatter plot data visualization, trends will be identified and illustrated to see the relationship between the level of development and clean energy consumption. This analysis will contribute to understanding the connection between economic growth and sustainable energy use.
